@@ -99,7 +99,7 @@ export default function WorkshopDetails() {
                         </h2>
                         <div className="space-y-4 text-lg font-mono text-muted-foreground">
                             <p>
-                                Join us for an exclusive Cisco and <HumainBrand className="align-baseline" /> Meetup on March (TBC) starting from 5 PM at Cisco Office, where we dive deep into the latest breakthroughs in Artificial Intelligence. This event features expert speakers from both <HumainBrand className="align-baseline" /> and Cisco, sharing insights into the newest AI developments and hardware-software integration in addition to hands-on learning where you will gain practical experience with cutting-edge tools and frameworks.
+                                Join us for an exclusive Cisco and <HumainBrand className="align-baseline" /> Meetup on March (TBC) starting from 6 PM at XXX(TBC) office, where we dive deep into the latest breakthroughs in Artificial Intelligence. This event features expert speakers from both <HumainBrand className="align-baseline" /> and Cisco, sharing insights into the newest AI developments and hardware-software integration in addition to hands-on learning where you will gain practical experience with cutting-edge tools and frameworks.
                             </p>
                             <p>
                                 Don&apos;t miss this chance to learn from the best in the industry. RSVP now to request your spot!
@@ -141,7 +141,7 @@ export default function WorkshopDetails() {
                                 <span className="text-white">///</span> WHAT IS HUMAIN ONE?
                             </h3>
                             <p className="text-lg font-mono text-muted-foreground leading-relaxed">
-                                <HumainBrand className="align-baseline" /> One is the agentic AI operating system. Automate complex workflows, deploy autonomous AI agents, and run your business from a single intelligence platform. It securely connects all your data with one simple interface, transforming human intent into executable actions across your meetings, tasks, and insights within the Saudi sovereign cloud.
+                                <HumainBrand className="align-baseline" /> One is an intelligent automation platform that connects your data, workflows, and systems through a single language-based interface. It uses autonomous AI agents to understand human intent and carry out complex business tasks from meetings and analytics to HR, finance, and procurement without switching between tools. Built on advanced multimodal reasoning and sovereign cloud infrastructure, it transforms human goals into real actions securely and efficiently.
                             </p>
                         </div>
                         <div>
