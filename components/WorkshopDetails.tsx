@@ -99,7 +99,7 @@ export default function WorkshopDetails() {
                         </h2>
                         <div className="space-y-4 text-lg font-mono text-muted-foreground">
                             <p>
-                                Join us for an exclusive Cisco and <HumainBrand className="align-baseline" /> Meetup on March 22nd (TBC) starting from 5 PM at Cisco Office, where we dive deep into the latest breakthroughs in Artificial Intelligence. This event features expert speakers from both <HumainBrand className="align-baseline" /> and Cisco, sharing insights into the newest AI developments and hardware-software integration in addition to hands-on learning where you will gain practical experience with cutting-edge tools and frameworks.
+                                Join us for an exclusive Cisco and <HumainBrand className="align-baseline" /> Meetup on March (TBC) starting from 5 PM at Cisco Office, where we dive deep into the latest breakthroughs in Artificial Intelligence. This event features expert speakers from both <HumainBrand className="align-baseline" /> and Cisco, sharing insights into the newest AI developments and hardware-software integration in addition to hands-on learning where you will gain practical experience with cutting-edge tools and frameworks.
                             </p>
                             <p>
                                 Don&apos;t miss this chance to learn from the best in the industry. RSVP now to request your spot!
