@@ -169,7 +169,7 @@ export default function WorkshopDetails() {
                                 <p className="text-sm font-bold text-cyber-orange">HOSTED BY</p>
                                 <p className="text-lg font-display text-white">HUMAIN AND CISCO</p>
                                 <p className="text-sm font-mono text-muted-foreground">
-                                    AI software developer, Boulder entrepreneur, and AI enthusiast.
+                                    AI software developer, leaders, entrepreneur, and AI enthusiast.
                                 </p>
                             </div>
 
