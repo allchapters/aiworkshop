@@ -327,6 +327,7 @@ export default function IsoRoom({
     let lastTime = performance.now()
 
     function loop(now: number) {
+      if (!canvas || !ctx) return
       const dt = Math.min(0.05, (now - lastTime) / 1000)
       lastTime = now
 
@@ -925,7 +926,7 @@ function drawAvatar(
   ctx.beginPath(); ctx.arc(ax, ay - 26 + danceBob + laughJitter, 12, 0, Math.PI * 2); ctx.stroke()
   ctx.strokeRect(Math.round(ax - 10) + 0.5, Math.round(ay - 18 + danceBob + laughJitter) + 0.5, 20, 26)
 
-  drawFace(ctx, facing, ax, ay - 26 + danceBob + laughJitter, laughing)
+  drawFace(ctx, facing, ax, ay - 26 + danceBob + laughJitter, !!laughing)
 }
 
 function drawFace(ctx: CanvasRenderingContext2D, facing: "N" | "S" | "E" | "W", cx: number, cy: number, laughing: boolean) {
